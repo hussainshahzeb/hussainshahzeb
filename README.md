@@ -66,21 +66,50 @@ Comprehensive Azure pipeline with **ADF, Databricks, Synapse, and Delta Lake** f
 
 **Languages & Frameworks**  
 - Python, SQL, C/C++  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <img alt="Sql_data_base_with_logo" src="https://github.com/user-attachments/assets/d088fca4-9306-444c-bbe1-b208ffa92f32" width="70" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+</p>
 
 **Data Engineering**  
 - Apache Spark, Delta Lake, Databricks  
 - Event Streaming (Apache Kafka, Azure Event Hubs, Spark Structured Streaming)  
-- ETL Development, Data Lakehouse, Data Warehousing  
+- ETL Development, Data Lakehouse, Data Warehousing
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="Apache Spark" width="40" height="40"/> 
+  <img alt="databricks_logo_icon_170295" src="https://github.com/user-attachments/assets/e8c85291-215a-44eb-b9b1-d73211edea78" width="40" height="40"/>
+  <img alt="delta-lake-logo-528274377" src="https://github.com/user-attachments/assets/6ed0d0db-463b-4bf4-8216-30413d674647" width="40" height="40"/>
+  <img alt="images (1)" src="https://github.com/user-attachments/assets/de212088-1295-461b-9184-65fbc792fd50" width="40" height="40"/>
+  <img alt="eventhub" src="https://github.com/user-attachments/assets/5cdeda64-c8e9-400e-8cc4-3ad5b0df078d" width="40" height="40"/>
+</p>
 
 **Cloud Platforms**  
-- Microsoft Azure (Data Factory, Synapse, Databricks, Storage, Functions)  
-- AWS (S3, Redshift, Lambda, Glue)  
+- Microsoft Azure (Data Factory, Synapse, Databricks, Storage, Functions)
+- Microsoft Fabric  
+- AWS (S3, Redshift, Lambda, Glue)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Microsoft Azure" width="40" height="40"/>
+  <img alt="social-image-v2" src="https://github.com/user-attachments/assets/fcc68f7c-4df3-4d54-b75a-acfd5962267f" width="80" height="80"/>
+  <img alt="Amazon-Web-Services-AWS-Logo" src="https://github.com/user-attachments/assets/ee53622a-7383-4349-9cd6-5147f62c2fc2" width="70" height="70"/>
+</p>
 
 **Databases**  
-- PostgreSQL, MySQL, Azure SQL Database  
+- PostgreSQL, MySQL, Azure SQL Database
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
+  <img alt="database" src="https://github.com/user-attachments/assets/bcca2ca3-5351-4987-b44b-5cfb4358df89" width="40" height="40"/>
+</p>
 
 **Other Tools**  
-- Git/GitHub, Power BI  
+- Git/GitHub, Power BI
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
+  <img alt="GitHub-Mark-ea2971cee799" src="https://github.com/user-attachments/assets/d76fde6c-1360-48fb-b194-8e0bf12196d4" width="40" height="40"/>
+  <img alt="New_Power_BI_Logo svg" src="https://github.com/user-attachments/assets/48bf6aad-0b0b-420e-87ed-ec56dc342b5e" width="40" height="40"/>
+</p>
 
 ---
 
@@ -114,9 +143,9 @@ Comprehensive Azure pipeline with **ADF, Databricks, Synapse, and Delta Lake** f
 
 ## 📫 Connect With Me  
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/shahzeb-hussain/)  
-- 💻 [GitHub](https://github.com/your-username)  
-- ✉️ Email: shahzeb@example.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/shahzeb-hussain-b2137a255/)  
+- 💻 [GitHub](https://github.com/hussainshahzeb)  
+- ✉️ Email: shahzebhussain77@gmail.com  
 
 ---
 ✨ *"Transforming raw data into powerful insights that drive decisions."*  
