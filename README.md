@@ -69,28 +69,46 @@ Comprehensive Azure pipeline with **ADF, Databricks, Synapse, and Delta Lake** f
 
 **Data Engineering**  
 - Apache Spark, Delta Lake, Databricks  
-- Apache Kafka, ETL Development  
-- Data Lakehouse, Data Warehousing  
+- Event Streaming (Apache Kafka, Azure Event Hubs, Spark Structured Streaming)  
+- ETL Development, Data Lakehouse, Data Warehousing  
 
 **Cloud Platforms**  
 - Microsoft Azure (Data Factory, Synapse, Databricks, Storage, Functions)  
 - AWS (S3, Redshift, Lambda, Glue)  
 
 **Databases**  
-- PostgreSQL, MySQL, Google BigQuery  
+- PostgreSQL, MySQL, Azure SQL Database  
 
 **Other Tools**  
-- Git/GitHub, Docker, Power BI  
+- Git/GitHub, Power BI  
 
 ---
 
-## 📜 Certifications  
+## 🎓 Certifications & License  
 
-- Databricks Certified Spark Developer  
-- Microsoft Certified Azure Data Engineer  
-- AWS Cloud Solutions Architect  
-- Snowflake – Introduction to Modern Data Engineering  
-- Cloud Data Engineering – Duke University (Coursera)  
+- [**Data Storage in Microsoft Azure**](https://www.coursera.org/account/accomplishments/verify/D6DDZUTX1ZEB) – *Microsoft* (Issued May 2025)  
+  *Credential ID: D6DDZUTX1ZEB*  
+
+- [**Prep for Microsoft Azure Data Engineer Associate (DP-203)**](https://www.coursera.org/account/accomplishments/verify/AIK456EZ2C6Y) – *SkillUp Online* (Issued May 2025)  
+  *Credential ID: AIK456EZ2C6Y*  
+  *Skills: Azure Data Lake*  
+
+- [**Introduction to Modern Data Engineering with Snowflake**](https://www.coursera.org/account/accomplishments/verify/83D4WQV8ZFGQ) – *Snowflake* (Issued Mar 2025)  
+  *Credential ID: 83D4WQV8ZFGQ*  
+  *Skills: Data Engineering · Snowflake · Data Pipelines*  
+
+- [**Cloud Data Engineering**](https://www.coursera.org/account/accomplishments/verify/6VRUZ7FXIQSA) – *Duke University (Coursera)* (Issued Jan 2025)  
+  *Credential ID: 6VRUZ7FXIQSA*  
+  *Skills: Cloud Computing · AWS*  
+
+- [**AWS Cloud Solutions Architect**](https://www.coursera.org/account/accomplishments/specialization/P2NVT74WCQ5V) – *Amazon Web Services* (Issued Dec 2024)  
+  *Credential ID: P2NVT74WCQ5V*  
+
+---
+
+## 🏅 License  
+
+- **Registered Electrical Engineer** – *Pakistan Engineering Council (PEC)*  
 
 ---
 
