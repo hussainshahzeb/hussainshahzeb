@@ -3,7 +3,7 @@
 💡 **Data Engineer | Cloud & Big Data Enthusiast | Continuous Learner**  
 
 I am a passionate **Data Engineer** with over **1 year of experience** turning raw data into meaningful insights.  
-I specialize in building **scalable, cloud-based data pipelines** using modern platforms like **Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake, and the Data Lakehouse architecture**.  
+I specialize in building **scalable, cloud-based data pipelines** using modern platforms like **Microsoft Fabric, Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake, and the Data Lakehouse architecture**.  
 
 ---
 
